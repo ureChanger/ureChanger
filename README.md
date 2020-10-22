@@ -13,6 +13,7 @@ Good day! I am Park Gilhyeon who is interested in Android and data
 #### 👨‍💻 Experience
 ![android_badge](https://img.shields.io/badge/-Android-green?logo=Android&logoColor=black)
 ![kotlin](http://img.shields.io/badge/-Kotlin-blue?logo=kotlin&logoColor=white)
+![gradle](http://img.shields.io/badge/-Gradle-darkblue?logo=Gradle&logoColor=white)
 ![python_badge](https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white)
 ![flask_badge](https://img.shields.io/badge/-Flask-black?logo=Flask&logoColor=white)
 ![pytorch_badge](https://img.shields.io/badge/-PyTorch-orange?logo=PyTorch&logoColor=white)
