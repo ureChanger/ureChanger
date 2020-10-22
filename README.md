@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## Android Engineer
+
+## Interest
+* Android
+* Kotlin
+* Python
+
 <div align=center>
   
   
@@ -7,3 +14,6 @@
 
 
 </div>
+
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ureChanger)](https://solved.ac/kinetic27)
