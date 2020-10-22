@@ -1,11 +1,15 @@
 ### Hi there 👋
 
-### Android Engineer
+I am Gilhyeon Park who 
 
 ## Interest
 * Android
 * Kotlin
 * Python
+
+## 🌠 Experience
+1. YB Member - SOPT 25th Android part
+2. Android Developer - plot
 
 <div align=center>
   
