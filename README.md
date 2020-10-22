@@ -11,7 +11,7 @@ Good day! I am Park Gilhyeon who is interested in Android and data
 
 
 #### 👨‍💻 Experience
-![kotlin](http://img.shields.io/badge/-kotlin?logo=kotlin)
+![kotlin](http://img.shields.io/badge/-kotlin-blue?logo=kotlin&logoColor=white)
 ![python_badge](https://img.shields.io/badge/-python-blue?logo=Python&logoColor=white)
 
 <div align=center>
