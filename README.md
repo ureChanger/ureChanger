@@ -11,7 +11,7 @@ Good day! I am Park Gilhyeon who is interested in Android and data
 
 
 #### 👨‍💻 Experience
-[Tech Blog Badge](http://img.shields.io/badge/logo=facebook)
+http://img.shields.io/badge/logo=facebook
 
 
 <div align=center>
