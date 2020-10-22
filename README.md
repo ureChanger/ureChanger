@@ -11,10 +11,10 @@ Good day! I am Park Gilhyeon who is interested in Android and data
 
 
 #### 👨‍💻 Experience
-![kotlin](http://img.shields.io/badge/-kotlin-blue?logo=kotlin&logoColor=white)
-![python_badge](https://img.shields.io/badge/-python-blue?logo=Python&logoColor=white)
-![java_badge](https://img.shields.io/badge/-java-blue?logo=Java&logoColor=white)
-![javascript_badge](https://img.shields.io/badge/-java-yellow?logo=JavaScript&logoColor=black)
+![kotlin](http://img.shields.io/badge/-Kotlin-blue?logo=kotlin&logoColor=white)
+![python_badge](https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white)
+![java_badge](https://img.shields.io/badge/-Java-blue?logo=Java&logoColor=white)
+![javascript_badge](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=black)
 
 
 <div align=center>
