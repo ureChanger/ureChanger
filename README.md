@@ -7,7 +7,7 @@ Good day! I am Park Gilhyeon who is interested in Android and data
 
 #### 🌠 Experience
 1. YB Member - SOPT 25th Android part
-2. Android Developer - plot
+2. Android Developer - TeamPlot
 
 
 #### 👨‍💻 Experience
