@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Good day! I am Park Gilhyeon who is interested in Android and data.
+Good day! I am Park Gilhyeon who is interested in Android and dat
+🌱I'm currently learning Android
 
 #### 🌠 Experience
 1. YB Member - SOPT 25th Android part
