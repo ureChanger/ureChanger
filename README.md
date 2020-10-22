@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-I am Gilhyeon Park who 
-
-## Interest
-* Android
-* Kotlin
-* Python
+Good day! I am Park Gilhyeon who is interested in Android and data.
 
 #### 🌠 Experience
 1. YB Member - SOPT 25th Android part
