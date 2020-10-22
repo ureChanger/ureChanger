@@ -19,6 +19,7 @@ Good day! I am Park Gilhyeon who is interested in Android and data
 ![pycharm_badge](https://img.shields.io/badge/-Pycharm-black?logo=Pycharm&logoColor=white)
 ![python_badge](https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white)
 ![flask_badge](https://img.shields.io/badge/-Flask-black?logo=Flask&logoColor=white)
+![kaggle_badge](https://img.shields.io/badge/-Kaggle-skyblue?logo=Kaggle&logoColor=white)
 ![visual studio code_badge](https://img.shields.io/badge/-Visual_Studio_Code-blue?logo=Visual+Studio+Code&logoColor=white)
 ![facebook detectron2](http://img.shields.io/badge/-Facebook_Detectron2-blue?logo=Facebook&logoColor=white)
 ![pytorch_badge](https://img.shields.io/badge/-PyTorch-orange?logo=PyTorch&logoColor=white)
