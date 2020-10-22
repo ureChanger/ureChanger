@@ -25,7 +25,7 @@ Good day! I am Park Gilhyeon who is interested in Android and data
 ![react_badge](https://img.shields.io/badge/-React-skyblue?logo=React&logoColor=black)
 ![html_badge](https://img.shields.io/badge/-HTML5-orange?logo=HTML5&logoColor=white)
 ![css_badge](https://img.shields.io/badge/-CSS3-skyblue?logo=CSS3&logoColor=white)
-![c#_badge](https://img.shields.io/badge/-C#-green?logo=C+Sharp&logoColor=white)
+![c#_badge](https://img.shields.io/badge/-C_Sharp-green?logo=C+Sharp&logoColor=white)
 
 ![android studio_badge](https://img.shields.io/badge/-Android_Studio-green?logo=Android+Studio&logoColor=black)
 ![pycharm_badge](https://img.shields.io/badge/-Pycharm-black?logo=Pycharm&logoColor=white)
