@@ -10,7 +10,7 @@ Good day! I am Park Gilhyeon who is interested in Android and data
 2. Android Developer - Team Plot
 
 
-#### 🧑‍💻 Experience
+#### 👨‍💻 Experience
 ![android_badge](https://img.shields.io/badge/-Android-green?logo=Android&logoColor=black)
 ![kotlin](http://img.shields.io/badge/-Kotlin-blue?logo=kotlin&logoColor=white)
 ![gradle](http://img.shields.io/badge/-Gradle-darkblue?logo=Gradle&logoColor=white)
