@@ -14,6 +14,3 @@
 
 
 </div>
-
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ureChanger)](https://solved.ac/kinetic27)
