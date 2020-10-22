@@ -30,7 +30,6 @@ Good day! I am Park Gilhyeon who is interested in Android and data
 ![pycharm_badge](https://img.shields.io/badge/-Pycharm-black?logo=Pycharm&logoColor=white)
 ![visual studio code_badge](https://img.shields.io/badge/-Visual_Studio_Code-blue?logo=Visual+Studio+Code&logoColor=white)
 ![eclipse ide code_badge](https://img.shields.io/badge/-Eclipse_IDE-pupple?logo=Eclipse+IDE&logoColor=white)
-![visual studio code_badge](https://img.shields.io/badge/-Visual_Studio_Code-blue?logo=Visual+Studio+Code&logoColor=white)
 ![intellij idea_badge](https://img.shields.io/badge/-IntelliJ_IDEA-black?logo=IntelliJ+IDEA&logoColor=white)
 ![git_badge](https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white)
 ![github_badge](https://img.shields.io/badge/-Github-black?logo=Github&logoColor=white)
