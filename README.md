@@ -2,7 +2,7 @@
 
 Good day! I am Gilhyeon Park who is interested in Android and AI
 
-* 🌱I'm currently learning Android
+* 🌱I'm currently learning AI
 
 
 #### 🌠 Experience
