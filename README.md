@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Good day! I am Gilhyeon Park who is interested in Android and AI(for BCI)
+Good day! I am Gilhyeon Park who is interested in Android and AI for BCI
 
 * 🌱I'm currently learning AI
 
