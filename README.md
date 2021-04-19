@@ -8,6 +8,8 @@ Good day! I am Gilhyeon Park who is interested in Android and AI for BCI
 #### 🌠 Experience
 1. YB Member - SOPT 25th Android part
 2. Android Developer - Team Plot
+3. AI Engineer - 3seclab
+4. Frontend Engineer - 3seclab
 
 
 #### 👨‍💻 Experience
