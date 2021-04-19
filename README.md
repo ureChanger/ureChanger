@@ -3,7 +3,7 @@
 Good day! I am Gilhyeon Park who is interested in Android and AI
 
 * 🌱I'm currently learning AI
-* 🙏I want to make bci come true
+* 🙏I want to make BCI come true
 
 
 #### 🌠 Experience
