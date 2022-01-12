@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Good day! I am Gilhyeon Park who is interested in Platform and DeFi
+Good day! I am Gilhyeon Park who is interested in DeFi and Business
 
 * 🌱I'm currently learning Flutter
 * 🙏I want digital currency to enter everyday life
