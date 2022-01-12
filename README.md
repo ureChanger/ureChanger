@@ -1,16 +1,9 @@
 ### Hi there 👋
 
-Good day! I am Gilhyeon Park who is interested in Android and AI
+Good day! I am Gilhyeon Park who is interested in Platform and DeFi
 
-* 🌱I'm currently learning AI
-* 🙏I want to make BCI come true
-
-
-#### 🌠 Experience
-1. YB Member - SOPT 25th Android part
-2. Android Developer - Team Plot
-3. AI Engineer - 3seclab
-4. Frontend Engineer - 3seclab
+* 🌱I'm currently learning Flutter
+* 🙏I want digital currency to enter everyday life
 
 
 #### 👨‍💻 Experience
