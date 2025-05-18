@@ -7,11 +7,12 @@
 <a href="https://linkedin.com/in/parkgilhyeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parkgilhyeon" height="30" width="40" /></a>
 </p>
 <h3>Things I code with</h3>
+
 ![Android](https://img.shields.io/badge/Android-blue?style=flat&logo=android&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-blue?style=flat&logo=amazonaws&logoColor=white)
 ![C](https://img.shields.io/badge/C-blue?style=flat&logo=c&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-blue?style=flat&logo=chartdotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-blue?style=flat&logo=csharp&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
