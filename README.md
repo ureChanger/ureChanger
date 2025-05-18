@@ -8,11 +8,11 @@
 </p>
 <h3>Things I code with</h3>
 ![Android](https://img.shields.io/badge/Android-blue?style=flat&logo=android&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-blue?style=flat&logo=aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-blue?style=flat&logo=amazonaws&logoColor=white)
 ![C](https://img.shields.io/badge/C-blue?style=flat&logo=c&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-blue?style=flat&logo=chart.js&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C#-blue?style=flat&logo=csharp&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-blue?style=flat&logo=chartdotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-blue?style=flat&logo=csharp&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-blue?style=flat&logo=dart&logoColor=white)
