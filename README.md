@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Gilhyeon Park, Fullstack developer from <img src="https://github.com/user-attachments/assets/2b708f40-afcd-458c-9ca7-75405e5087e0" width="13"/> <b>Seoul, Korea</b></p>
+<p>Welcome to my page! </br> I'm Gilhyeon Park, Fullstack developer from <img src="https://github.com/user-attachments/assets/2b708f40-afcd-458c-9ca7-75405e5087e0" width="24"/> <b>Seoul, Korea</b></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/parkgilhyeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parkgilhyeon" height="30" width="40" /></a>
